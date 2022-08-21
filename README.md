@@ -62,8 +62,7 @@ Next i
         
         
     Next i
-    ```
-    
+ ```
 When I ran the code the time was much faster than the original code that I created in the green stocks analysis.
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/110861876/185811141-11dc5318-c8c2-4b0c-afa1-d2347a876439.png)
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/110861876/185811147-ed88ce04-3002-4b57-92d6-c9a1b788a63b.png)
