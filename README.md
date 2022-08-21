@@ -1,7 +1,7 @@
 # stocks-analysis
 Doing a stocks analysis using VBA.
 ## Overview of Project
-The purpose of the project was to refactor a VBA code for a stock anlysis from the the years 2017 and 2018.This process was completed within module 2 already, but refactoring the code made it more efficient. The data had twelve stocks that contained ticker values, the date it was issued, the opening, closing, adjusted closing price, the highest and lowest price, and volume of the stock. The goal was to obtain the total daiily volume and the return percentage of each stock.
+The purpose of the project was to refactor a VBA code for a stock anlysis from the the years 2017 and 2018. This process was completed within module 2 already, but refactoring the code made it more efficient. The data had twelve stocks that contained ticker values, the date it was issued, the opening, closing, adjusted closing price, the highest and lowest price, and volume of the stock. The goal was to obtain the total daiily volume and the return percentage of each stock.
 ## Results
 I started with adding the refactoring instructions to my code and then followed the steps to create the following code. Also, I got the code that was needed for the input box, chart headers, and ticker array and I copied those in the correct place to finish the whole code.
 ```
